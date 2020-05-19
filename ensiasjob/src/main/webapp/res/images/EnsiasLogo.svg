@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="54" height="58" viewBox="0 0 54 58">
+  <defs>
+    <style>
+      .cls-1, .cls-2, .cls-5 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        font-size: 14px;
+        font-family: ArialMT, Arial;
+      }
+
+      .cls-3 {
+        fill: none;
+        stroke: #1c7cd5;
+        stroke-width: 2px;
+      }
+
+      .cls-4, .cls-5 {
+        stroke: none;
+      }
+    </style>
+  </defs>
+  <g id="Group_3" data-name="Group 3" transform="translate(-33 -9)">
+    <g id="Group_1" data-name="Group 1">
+      <g id="Polygon_1" data-name="Polygon 1" class="cls-1" transform="translate(33 9)">
+        <path class="cls-4" d="M 53.05925369262695 39.5 L 0.9407445192337036 39.5 L 27 0.8936955332756042 L 53.05925369262695 39.5 Z"/>
+        <path class="cls-5" d="M 27 1.787395477294922 L 1.881492614746094 39 L 52.11850738525391 39 L 27 1.787395477294922 M 27 0 L 54 40 L 0 40 L 27 0 Z"/>
+      </g>
+      <text id="ENSIAS" class="cls-2" transform="translate(33 64)"><tspan x="0" y="0">ENSIAS</tspan></text>
+    </g>
+    <line id="Line_5" data-name="Line 5" class="cls-3" y2="21.8" transform="translate(60.151 13.955)"/>
+    <line id="Line_6" data-name="Line 6" class="cls-3" x1="20.215" y1="10.702" transform="translate(60.151 35.755)"/>
+    <line id="Line_7" data-name="Line 7" class="cls-3" y1="10.702" x2="20.215" transform="translate(40.333 35.755)"/>
+  </g>
+</svg>
